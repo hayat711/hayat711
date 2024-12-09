@@ -7,8 +7,8 @@ Software Developer
 I develop full-stack web and mobile applications, with a primary focus on building microservices using Node.js (particularly Nest.js) and Golang. I utilize REST, GraphQL, or gRPC APIs for communication.
 
 * 🌍  I'm based in South Korea
-* 🖥️  See my portfolio at [https://hayyat.xyz](http://hayyat.xyz)
-* 🧠  I'm learning Distributed Systems,Go, ML
+* 🖥️  See my portfolio at https://hayatt.vercel.app/
+* 🧠  I'm learning Zero Knowledge Proofs, ML & Blockchian Data Analytics.
 * 🤝  I'm open to collaborating on Building robust APIs and user interfaces or microservices for distributed applications.
 * ⚡  A Linux enthusiast & Gopher(new one 😄)
 
