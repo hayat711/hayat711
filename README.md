@@ -1,7 +1,7 @@
 Hi,  I'm Hayat
 =============================================================================================================================
 
-Software Developer
+ML/AI Engineer 
 --------------------
 
 I develop full-stack web and mobile applications, with a primary focus on building microservices using Node.js (particularly Nest.js) and Golang. I utilize REST, GraphQL, or gRPC APIs for communication.
